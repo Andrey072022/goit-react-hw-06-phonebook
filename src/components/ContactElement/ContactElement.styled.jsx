@@ -5,12 +5,12 @@ export const Contact = styled.li`
 `;
 
 export const DelButton = styled.button`
-  margin-right: 20px;
+  margin-left: 20px;
   min-width: 60px;
   padding: 3px;
   border: none;
   border-radius: 5px;
-  background-color: #02639b;
+  background-color: #029b20;
   &:hover {
     color: #fff;
   }

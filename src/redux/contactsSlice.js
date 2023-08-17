@@ -5,6 +5,12 @@ const initialState = [
   { id: 'id-2', name: 'Comfi', number: '0-800-303-505' },
 ];
 
+// const initialState = [
+//   { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
+//   { id: 'id-2', name: 'Hermione Kline', number: '443-89-12' },
+// ];
+
+
 const contactsSlice = createSlice({
   name: 'contacts',
   initialState,

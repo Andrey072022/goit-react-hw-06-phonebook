@@ -8,20 +8,20 @@ export const Form = styled.form`
   gap: 20px;
   width: 400px;
   padding: 20px;
-  border: 2px solid #02639b;
+  border: 4px solid #029b20;
   border-radius: 5px;
 `;
 export const FormInput = styled.input`
-  margin-left: 20px;
+  margin-right: 150px;
   min-width: 250px;
-  border: 2px solid #02639b;
+  border: 2px solid #029b20;
 `;
 export const FormButton = styled.button`
   min-width: 80px;
   padding: 8px;
   border: none;
   border-radius: 5px;
-  background-color: #02639b;
+  background-color: #029b20;
   &:hover {
     color: #fff;
   }
